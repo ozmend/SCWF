@@ -1,5 +1,4 @@
-# SCWF
-Dockerized Solve Crypto With Force (SCWF)
+# Dockerized - Solve Crypto With Force (SCWF)
 
 This scripts includes basic bash scripts.
 git clone and run docker 
